@@ -10,6 +10,7 @@ This project uses a master architect / architect workflow for parallel feature d
 ```
 Master Architect (main window)
 ├── Creates master plan (docs/plans/)
+├── Creates branches based on feautres - main - dev (for integration of branches)
 ├── Creates status doc (docs/STATUS.md)
 ├── Assigns features to architect windows
 ├── Monitors progress via status doc
